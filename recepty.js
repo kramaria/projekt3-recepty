@@ -9,7 +9,7 @@ const recepty = [
   { nadpis: 'Těstoviny s pestem',
     popis: 'Pesto v tomto receptu je připraveno bez sýra – místo něj jsou použity dvě celé palice pečeného česneku. Špagety budou díky tomu skvěle dochucené!',
     hodnoceni: 4.2,
-    kategorie: 'Hlavní jídlo',
+    kategorie: 'Hlavní jidlo',
     stitek: 'hlavniJidlo',
     img: 'https://images.unsplash.com/photo-1473093295043-cdd812d0e601?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c9443baefd581d4e532b6d4f1e7879be&auto=format&fit=crop&w=1350&q=80'
   },
@@ -112,3 +112,4 @@ const recepty = [
     img: 'https://images.unsplash.com/photo-1516684669134-de6f7c473a2a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=353c1f4206a931db97274e65329b85d8&auto=format&fit=crop&w=634&q=80'
   },
 ]
+
